@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class practice {
 
 	public static void main(String[] args) {
-		int[] arr = new int[11];
+	    int[] arr = new int[11];
 	    int T, n;
 	    Scanner scanner = new Scanner(System.in);
 	     
